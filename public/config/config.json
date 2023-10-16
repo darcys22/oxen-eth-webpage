@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x10C9A9C70E0288b168E8bf3A41d1c2713f24d1e4",
+  "SCAN_LINK": "https://sepolia.etherscan.io/address/0x10c9a9c70e0288b168e8bf3a41d1c2713f24d1e4",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Sepolia",
+    "SYMBOL": "Eth",
+    "ID": 11155111
   },
   "NFT_NAME": "Nerdy Coder Clones",
   "SYMBOL": "NCC",
